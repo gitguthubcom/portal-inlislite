@@ -15,7 +15,7 @@ class CtaV10 extends Component {
               <div className="container">
                 <h3>Demo</h3>
                 <p>Inlislite ver. 3</p>
-                <a href="http://demoinlislitev31.perpusnas.go.id/" className="thm-btn cta-eleven__btn">Tes Aplikasi <i className="fa fa-angle-double-right" /></a>
+                <a href="http://demoinlislitev31.perpusnas.go.id/" className="thm-btn cta-eleven__btn">Uji Coba Aplikasi <i className="fa fa-angle-double-right" /></a>
                 {/* /.thm-btn cta-eleven__btn */}
               </div>{/* /.container */}
             </section>

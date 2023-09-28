@@ -15,10 +15,8 @@ class CtaV4 extends Component {
 			    <div className="row justify-content-end">
 			      <div className="col-lg-5">
 			        <div className="cta-seven__content">
-			          <div className="cta-six__icon">
-			            <i className="fas fa-envelope-open" />
-			          </div>{/* /.cta-six__icon */}
-			          <h3>Perfect Application <br /> For Your Business</h3>
+			          
+			          <h3>Demo InlisLite ver. 4</h3>
 			          <p>Sedut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
 			            totam rem aperieeaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
 			            dicta sunt explicabo emo enim ipsam</p>

@@ -19,7 +19,7 @@ class BannerV4 extends Component {
 		          <h3>Integrated <br />
 		            <span>Library System</span></h3>
 		          <p>Sistem Aplikasi Otomatisasi Perpustakaan, Terintegrasi, Mudah Digunakan &amp; Gratis</p>
-		          <Link to="/service" className="thm-btn banner-four__btn">Unduh Sekarang <i className="fa fa-angle-double-right" /></Link>{/* /.thm-btn banner-four__btn */}
+		          <Link to="/service" className="thm-btn banner-four__btn">Coba Sekarang <i className="fa fa-angle-double-right" /></Link>{/* /.thm-btn banner-four__btn */}
 		        </div>{/* /.banner-four__content */}
 		      </div>{/* /.col-lg-12 */}
 		    </div>{/* /.row */}

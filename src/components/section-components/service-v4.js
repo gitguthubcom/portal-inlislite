@@ -17,10 +17,7 @@ class ServiceV4 extends Component {
 			              <i className="far fa-chart-line" />
 			            </div>{/* /.service-five__icon */}
 			            <h3><Link to="/service-details">Best Performance</Link></h3>
-			            <p>Sed ut perspiciatis unde omnis iste
-			              natus error sit voluptatem accusante
-			              um doloremque laudantium totam
-			              rem aperiam eaque ipsa </p>
+			            <p>Menggunakan teknologi pengcodingan terkini dan mutakhir, akses data front-end dan back-end menjadi lebih cepat. </p>
 			          </div>{/* /.service-five__single-inner */}
 			        </div>{/* /.service-five__single */}
 			      </div>{/* /.col-lg-4 */}
@@ -31,10 +28,7 @@ class ServiceV4 extends Component {
 			              <i className="far fa-rss" />
 			            </div>{/* /.service-five__icon */}
 			            <h3><Link to="/service-details">Easy Configuration</Link></h3>
-			            <p>Sed ut perspiciatis unde omnis iste
-			              natus error sit voluptatem accusante
-			              um doloremque laudantium totam
-			              rem aperiam eaque ipsa </p>
+			            <p>dengan tampilan baru yang lebih simple, memudahkan dalam instalasi dan konfigurasi aplikasi </p>
 			          </div>{/* /.service-five__single-inner */}
 			        </div>{/* /.service-five__single */}
 			      </div>{/* /.col-lg-4 */}
@@ -44,11 +38,8 @@ class ServiceV4 extends Component {
 			            <div className="service-five__icon">
 			              <i className="far fa-unlock-alt" />
 			            </div>{/* /.service-five__icon */}
-			            <h3><Link to="/service-details">Best Security Sass</Link></h3>
-			            <p>Sed ut perspiciatis unde omnis iste
-			              natus error sit voluptatem accusante
-			              um doloremque laudantium totam
-			              rem aperiam eaque ipsa </p>
+			            <h3><Link to="/service-details">Best Security</Link></h3>
+			            <p>Penggunaan metode baru keamanan data, sehingga lebih terjaga dari serangan cyber. </p>
 			          </div>{/* /.service-five__single-inner */}
 			        </div>{/* /.service-five__single */}
 			      </div>{/* /.col-lg-4 */}

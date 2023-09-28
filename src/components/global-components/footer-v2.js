@@ -63,7 +63,7 @@ class Footer_v2 extends Component {
 									<h3 className="footer-widget__title">Penerbit, Institusi, dan Pustakawan</h3>{/* /.footer-widget__title */}
 									<ul className="footer-widget__links-list list-unstyled">
 									<li><a href="https://edeposit.perpusnas.go.id/">e-Deposit</a></li>
-										<li><a href="https://keanggotaan.perpusnas.go.id/">Keanggotaan Perpusnas</a></li>
+										
 										<li><a href="https://isbn.perpusnas.go.id/">ISBN</a></li>
 										<li><a href="https://ismn.perpusnas.go.id/">ISMN</a></li>
 										<li><a href="https://depbangkol.perpusnas.go.id/">Serah Simpan KCKR</a></li>
@@ -78,7 +78,7 @@ class Footer_v2 extends Component {
 				</div>{/* /.site-footer-two__upper */}
 				<div className="site-footer-two__bottom">
 					<div className="container">
-						<p>Pusdatin©2023 <a href="#">Perpustakaan Nasional RI</a>. Hak Cipta Dilindungi Undang-undang.</p>
+						<p>Pusdatin©2023 <a href="https://perpusnas.go.id/">Perpustakaan Nasional RI</a>. Hak Cipta Dilindungi Undang-undang.</p>
 					</div>{/* /.container */}
 				</div>{/* /.site-footer-two__bottom */}
 			</div>

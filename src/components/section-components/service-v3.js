@@ -45,13 +45,7 @@ class ServiceV3 extends Component {
 		        </div>{/* /.service-four__single */}
 		      </div>{/* /.col-lg-3 col-md-6 */}
 		    </div>{/* /.row */}
-		    <div className="service-four__box">
-		      <p>But I must explain to you how all this mistaken idea of denouncing pleasure and <br /> praising pain was
-		        born and I will give you a complete </p>
-		      <div className="service-four__btn-block">
-		        <Link to="/service" className="thm-btn service-four__box-btn">Get Started <i className="fa fa-angle-double-right" /></Link>
-		      </div>{/* /.service-four__btn-block */}
-		    </div>{/* /.service-four__box */}
+		    
 		  </div>{/* /.container */}
 		</section>
 

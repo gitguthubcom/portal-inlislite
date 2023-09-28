@@ -32,17 +32,7 @@ class FooterV4 extends Component {
         <div className="site-footer-four__bubble-3" />{/* /.site-footer-four__bubble-3 */}
         <div className="site-footer-four__bubble-4" />{/* /.site-footer-four__bubble-4 */}
         <div className="site-footer-four__mc-wrap">
-          <div className="container">
-            <div className="site-footer-four__mc-text text-center">
-              <h3>Singup Newsletter To Get Update</h3>
-              <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudan
-                <br />tiumrem aperiam eaque ipsa quae ab illo inventore</p>
-            </div>{/* /.site-footer-four__mc-text */}
-            <form action="#" className="site-footer-four__mc-from">
-              <input type="text" name="email" placeholder="Enter Your Email" />
-              <button type="submit" className="site-footer-four__mc-btn">Sign Up <i className="fa fa-angle-double-right" /></button>
-            </form>{/* /.site-footer-four__mc-from */}
-          </div>{/* /.container */}
+          
         </div>{/* /.site-footer-four__mc-wrap */}
         <div className="site-footer-four__upper">
           <div className="container">
@@ -53,37 +43,32 @@ class FooterV4 extends Component {
                   <a href="index-2.html">
                     <img src={publicUrl + "assets/images/logo-full-light.png"} alt={imgattr} />
                   </a>
-                  <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusa ntium doloreque
-                    laudantiu totam rem aperiam </p>
+                  <p>Pusat Data dan Informasi Perpustakaan Nasional RI</p>
+									<p>Jl. Medan Merdeka Selatan No. 11 Jakarta 10110</p>
                 </div>{/* /.footer-widget footer-widget__about */}
               </div>{/* /.col-lg-4 */}
               <div className="col-lg-4">
                 <div className="footer-widget footer-widget__links">
-                  <h3 className="footer-widget__title">Company</h3>{/* /.footer-widget__title */}
+                  <h3 className="footer-widget__title">Layanan Perpusnas RI</h3>{/* /.footer-widget__title */}
                   <ul className="list-unstyled">
-                    <li><Link to="/about">About Us</Link></li>
-                    <li><Link to="/service">Our Services</Link></li>
-                    <li><Link to="/about">Setting &amp; Privecy</Link></li>
-                    <li><Link to="/contact">Need a Job?</Link></li>
-                    <li><Link to="/blog-grid">Latest Blog</Link></li>
-                    <li><Link to="/contact">Get a Quote</Link></li>
+                  <li><a href="https://opac.perpusnas.go.id/">OPAC</a></li>
+                  <li><a href="https://e-resources.perpusnas.go.id/">e-Resources</a></li>
+                  <li><a href="https://onesearch.id/">OneSearch</a></li>
+                  <li><a href="https://ipusnas.perpusnas.go.id/">iPusnas</a></li>
+                  <li><a href="https://paprika.perpusnas.go.id/">Paprika</a></li>
+                  <li><a href="https://edeposit.perpusnas.go.id/">e-Deposit</a></li>
                   </ul>{/* /.list-unstyled */}
                 </div>{/* /.footer-widget footer-widget__links */}
               </div>{/* /.col-lg-4 */}
               <div className="col-lg-4">
                 <div className="footer-widget">
-                  <ul className="footer-widget__menu list-unstyled">
-                    <li><Link to="/">Home</Link></li>
-                    <li><Link to="/about">Features</Link></li>
-                    <li><Link to="/service">Service</Link></li>
-                    <li><Link to="/contact">Contact</Link></li>
-                  </ul>{/* /.footer-widget__menu list-unstyled */}
+                  
                   <div className="footer-widget__social">
                     <p>Folow Us On Social Media</p>
-                    <a href="https://www.facebook.com/webtend/"><i className="fab fa-facebook-f" /></a>
-                    <a href="https://www.twitter.com/webtend/"><i className="fab fa-twitter" /></a>
-                    <a href="https://www.google.com/webtend/"><i className="fab fa-google-plus-g" /></a>
-                    <a href="https://www.behance.com/webtend/"><i className="fab fa-behance" /></a>
+                    <a href="https://www.facebook.com/ayokeperpusnas"><i className="fab fa-facebook-f" /></a>
+                    <a href="https://twitter.com/perpusnas1"><i className="fab fa-twitter" /></a>
+                    <a href="https://www.instagram.com/perpusnas.go.id/"><i className="fab fa-instagram" /></a>
+                    <a href="https://www.youtube.com/@Katinksg"><i className="fab fa-youtube" /></a>
                   </div>{/* /.footer-widget__social */}
                 </div>{/* /.footer-widget */}
               </div>{/* /.col-lg-4 */}
@@ -93,7 +78,7 @@ class FooterV4 extends Component {
         <div className="site-footer-four__bottom">
           <div className="container text-center">
             <div className="site-footer-four__bottom-sep" />{/* /.site-footer-four__upper-sep */}
-            <p>Copy@2022 <a href="#">Bizkar</a>. All Right Reserved.</p>
+            <p>Pusdatin©2023 <a href="https://perpusnas.go.id/">Perpustakaan Nasional RI</a>. Hak Cipta Dilindungi Undang-undang.</p>
           </div>{/* /.container */}
         </div>{/* /.site-footer-four__bottom */}
       </footer>

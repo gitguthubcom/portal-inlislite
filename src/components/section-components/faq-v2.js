@@ -99,11 +99,13 @@ class FaqV2 extends Component {
                           </ol>
                       </div>{/* /.inner */}
                     </div>
+                    
                   </div>
                 </div>
             </div>{/* /.col-lg-6 */}
           </div>{/* /.row */}
         </div>{/* /.container */}
+        <br />
       </section>
 
         }

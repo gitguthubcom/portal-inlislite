@@ -50,9 +50,8 @@ class TestimonialV4 extends Component {
     return  <section className="testimonials-three">
 			  <div className="container">
 			    <div className="testimonials-three__block text-center">
-			      <h3>What Our Client’s Say</h3>
-			      <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium totam
-			        <br /> rem aperiam eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae</p>
+			      <h3>Testimoni Pengguna InlisLite</h3>
+			     
 			    </div>{/* /.testimonials-three__block */}
 			    <div className="testimonials-three__carousel owl-carousel owl-theme">
 			      <div className="item">
@@ -66,12 +65,11 @@ class TestimonialV4 extends Component {
 			            <div className="col-lg-7 d-flex">
 			              <div className="my-auto">
 			                <div className="testimonials-three__content">
-			                  <p>Sed ut perspiciatis unde omnis iste natus error sit volupta tem accusantium
-			                    doloremque laudantium totam rem apeam eaque ipsa quae ab illo inventore
-			                    veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-			                    luptatem quia voluptas sit aspernatur aut odit aut.</p>
-			                  <h3>Kuhka Likaz</h3>
-			                  <span>Web Designer</span>
+			                  <p>Kami merasa sangat terbantu dengan adanya entry data ke dalam aplikasi INLISLite karena kita lebih dimudahkan
+								dalam mencari koleksi melalui OPAC
+							  </p>
+			                  <h3>Pustakawan</h3>
+			                  <span>Dispurarsip Kabupaten Lubuklinggau</span>
 			                </div>{/* /.testimonials-three__content */}
 			              </div>{/* /.my-auto */}
 			            </div>{/* /.col-lg-7 */}
@@ -83,18 +81,15 @@ class TestimonialV4 extends Component {
 			          <div className="row">
 			            <div className="col-lg-5">
 			              <div className="testimonials-three__image">
-			                <img src={publicUrl+"assets/images/testimonials/testi-3-1.png"} alt={ imagealt } />
+			                <img src={publicUrl+"assets/images/testimonials/testi-3-2.png"} alt={ imagealt } />
 			              </div>{/* /.testimonials-three__image */}
 			            </div>{/* /.col-lg-5 */}
 			            <div className="col-lg-7 d-flex">
 			              <div className="my-auto">
 			                <div className="testimonials-three__content">
-			                  <p>Sed ut perspiciatis unde omnis iste natus error sit volupta tem accusantium
-			                    doloremque laudantium totam rem apeam eaque ipsa quae ab illo inventore
-			                    veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-			                    luptatem quia voluptas sit aspernatur aut odit aut.</p>
-			                  <h3>Kuhka Likaz</h3>
-			                  <span>Web Designer</span>
+			                  <p>INLISLite bisa mempermudah kami sebagai siswa untuk mencari dan mendapatkan koleksi buku dan bahan bacaan yang kami inginkan. </p>
+			                  <h3>Siswi</h3>
+			                  <span>SMA Kabupaten Hulu Sungai Utara</span>
 			                </div>{/* /.testimonials-three__content */}
 			              </div>{/* /.my-auto */}
 			            </div>{/* /.col-lg-7 */}
@@ -106,18 +101,17 @@ class TestimonialV4 extends Component {
 			          <div className="row">
 			            <div className="col-lg-5">
 			              <div className="testimonials-three__image">
-			                <img src={publicUrl+"assets/images/testimonials/testi-3-1.png"} alt={ imagealt } />
+			                <img src={publicUrl+"assets/images/testimonials/testi-3-3.png"} alt={ imagealt } />
 			              </div>{/* /.testimonials-three__image */}
 			            </div>{/* /.col-lg-5 */}
 			            <div className="col-lg-7 d-flex">
 			              <div className="my-auto">
 			                <div className="testimonials-three__content">
-			                  <p>Sed ut perspiciatis unde omnis iste natus error sit volupta tem accusantium
-			                    doloremque laudantium totam rem apeam eaque ipsa quae ab illo inventore
-			                    veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-			                    luptatem quia voluptas sit aspernatur aut odit aut.</p>
-			                  <h3>Kuhka Likaz</h3>
-			                  <span>Web Designer</span>
+			                  <p>Kami merasakan manfaat dari aplikasi INLISLite yakni optimalisasi label barcode scanner. Sebelumnya nomor panggil dan barcode itu terpisah,
+								maka sekarang sudah lebih praktis karena bisa dicetak dalam sekali input menggunakan fitur di INLISLite
+							  </p>
+			                  <h3>Taufik Tri Muladi</h3>
+			                  <span>Pengelola Bahan Pustaka Dispursip Kab. Tangerang</span>
 			                </div>{/* /.testimonials-three__content */}
 			              </div>{/* /.my-auto */}
 			            </div>{/* /.col-lg-7 */}

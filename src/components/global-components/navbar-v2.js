@@ -26,8 +26,8 @@ class NavbarV2 extends Component {
 					  <li className="dropdown">
 			            <a href="#">Tentang</a>
 			            <ul>
-			              <li><Link to="/service">Inlislite ver 3</Link></li>
-			              <li><Link to="/service-v2">Inlislite ver 4</Link></li>
+			              <li><Link to="/tentang-inlisliteV3">Inlislite ver 3</Link></li>
+			              <li><Link to="/tentang-inlisliteV3">Inlislite ver 4</Link></li>
 			              
 			            </ul>{/* /.sub-menu */}
 			          </li>

@@ -64,7 +64,7 @@ class FooterV4 extends Component {
                 <div className="footer-widget">
                   
                   <div className="footer-widget__social">
-                    <p>Folow Us On Social Media</p>
+                    <p>Ikuti Media Sosial Kami</p>
                     <a href="https://www.facebook.com/ayokeperpusnas"><i className="fab fa-facebook-f" /></a>
                     <a href="https://twitter.com/perpusnas1"><i className="fab fa-twitter" /></a>
                     <a href="https://www.instagram.com/perpusnas.go.id/"><i className="fab fa-instagram" /></a>

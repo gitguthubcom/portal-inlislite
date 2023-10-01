@@ -5,7 +5,7 @@ import { BrowserRouter as Router, HashRouter, Route, Switch } from "react-router
 import HomeV4 from './components/home-v4';
 import About from './components/about';
 import TentangV3 from './components/tentang-inlisliteV3';
-import TentangV3 from './components/fitur-inlisliteV3';
+import FiturV3 from './components/fitur-inlisliteV3';
 import Service from './components/service';
 import ServiceV2 from './components/service-v2';
 import ServiceDetails from './components/service-details';

@@ -50,7 +50,7 @@ class NavbarV4 extends Component {
 			          <li className='dropdown'>
 			            <a href="#">Fitur & Modul Program</a>
 						<ul>
-			              <li><Link to="/tentang-inlisliteV3">InlisLite ver 3</Link></li>
+			              <li><Link to="/fitur-inlisliteV3">InlisLite ver 3</Link></li>
 			              <li><Link to="/tentang-inlisliteV3">InlisLite ver 4</Link></li>
 			              
 			            </ul>{/* /.sub-menu */}

@@ -13,7 +13,7 @@ import Footer from './global-components/footer-v2';
 const ServiceV1 = () => {
     return <div>
         <Navbar />
-        <PageHeader headertitle="Service Details"  />
+        <PageHeader headertitle=""  />
         <Service />
         <Video />
         <FunFact />
